@@ -16,7 +16,7 @@
   </div>
   <hr>
   <div class="container">
-    <form action="" method="get" class="row">
+    <form action="" method="post" class="row">
       <input type="hidden" name="create" value="create">
       <div class="col-sm-8 col-sm-offset-2">
         <div class="form-group">
